@@ -1,0 +1,16 @@
+.blank{
+    background-color: bisque;
+    padding: 2px;
+    /* display: flex; */
+    align-items: center;
+    /* justify-content: center; */
+}
+.btn{
+    /* text-align: center; */
+    color: rgb(6, 45, 96);
+    align-items: center;
+    justify-content: center;
+}
+.avatar{
+    border-radius:50% ;
+}
